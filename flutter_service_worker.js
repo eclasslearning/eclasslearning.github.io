@@ -3,15 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e96e7e12a2af880a8e1aea9d4699758f",
+  "assets/AssetManifest.json": "0cf9c558c2ad2b596c58ef50c2d77905",
 "assets/assets/fonts/Montserrat/Montserrat-Bold.ttf": "a3b387c93882604792867736aecd56c8",
 "assets/assets/fonts/Montserrat/Montserrat-Italic.ttf": "b0cf52e5f2f3e3fbc204cb06fd0e7b11",
 "assets/assets/fonts/Montserrat/Montserrat-Medium.ttf": "0098f804fc2d06af52650e0b8ed3390c",
 "assets/assets/fonts/Montserrat/Montserrat-Regular.ttf": "a8a117360e71de94ae3b0b0f8d15b44d",
 "assets/assets/fonts/Montserrat/Montserrat-SemiBold.ttf": "bbcd5bbb5993808a92df01a5dfef77cd",
 "assets/assets/images/arrow.gif": "e9320c9884fca49baf1ba63e9b559a45",
+"assets/assets/images/contactMe.jpg": "ccf22b5e736a31e380b91a97ad1c1a37",
 "assets/assets/images/isaac.jpg": "7ab8a9f0ede727e35b1d81c82d246e1e",
 "assets/assets/images/mac.png": "ec97df10ee509032cf1b5b5b7c018c1e",
+"assets/assets/images/MockUp.png": "92aaf51b04a2e99c37f8347cc114e346",
 "assets/assets/images/mtn.png": "21ca3ef13b9b29da679cdd7a36737083",
 "assets/assets/images/RealEstate.png": "2118d131097bb6b3c3b67a74a22fdc14",
 "assets/FontManifest.json": "12c50c18ef3e8c48de0fcfadfd81d0b1",
@@ -29,9 +31,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fe65d858daa6da4871d3fb6eeb409df2",
-"/": "fe65d858daa6da4871d3fb6eeb409df2",
-"main.dart.js": "b61e718d13657ecb399b6285a1f75f54",
+"index.html": "1e2520dcf547df543d9ca44c2cc3e5f2",
+"/": "1e2520dcf547df543d9ca44c2cc3e5f2",
+"main.dart.js": "63aebcfd1ae665e8aa38e23d074b14a4",
 "manifest.json": "29b658dedf33c7c7758dabbeae3a61e0",
 "version.json": "38c0ae761dbf92c004443657a680df56"
 };
